@@ -4,6 +4,7 @@ import './App.css';
 import Header from './components/Header';
 import CoinPage from './pages/CoinPage';
 import HomePage from './pages/HomePage';
+import Alert from './components/Authentication/Alert';
 
 const useStyles = makeStyles({
   App: {
@@ -29,6 +30,7 @@ function App() {
           </Route>
         </Switch>
       </div>
+      <Alert />
     </BrowserRouter>
   );
 }
