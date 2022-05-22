@@ -2,8 +2,6 @@
 Crypto Hunter
 </h3>
 
-## :rocket: 
-
 <p align="center">
   <img src="https://github.com/rodrigovellinho/CriptoHunter/blob/master/public/Crypto1.png?raw=true" alt="CryptoHunter">
 </p>
