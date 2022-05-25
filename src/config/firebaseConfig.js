@@ -1,6 +1,6 @@
 const firebaseConfig = {
   apiKey: 'AIzaSyBNngayZrJ_I0gDW0O_SuXRsBVkiKJBcEY',
-  authDomain: 'crypto-hunter-17680.firebaseapp.com',
+  authDomain: 'https://cripto-hunter-2022.netlify.app/',
   projectId: 'crypto-hunter-17680',
   storageBucket: 'crypto-hunter-17680.appspot.com',
   messagingSenderId: '590278072366',
