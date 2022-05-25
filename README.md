@@ -2,11 +2,14 @@
 Crypto Hunter
 </h3>
 
-## :rocket: 
+<p align="center">
+  <img src="https://github.com/rodrigovellinho/CriptoHunter/blob/master/public/Crypto1.png?raw=true" alt="CryptoHunter">
+</p>
 
 <p align="center">
-  <img src="" alt="CryptoHunter">
+  <img src="https://github.com/rodrigovellinho/CriptoHunter/blob/master/public/Crypto2.png?raw=true" alt="CryptoHunter">
 </p>
+
 
 A aplicação tem como objetivo mostrar as principais cripto moedas do mercado.
 
