@@ -18,7 +18,7 @@ A aplicação tem como objetivo mostrar as principais cripto moedas do mercado.
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone [https://github.com/rodrigovellinho/SpaceTravelling.git](https://github.com/rodrigovellinho/CriptoHunter.git)
+git clone https://github.com/rodrigovellinho/CriptoHunter.git
 # ou use a opção de download.
 
 # Instale as dependências
